@@ -105,5 +105,5 @@ MIT License
 © 2026 Aditi Khare
 Enterprise AI Product Ecosystem | Decision Intelligence
 ---
-## ⭐ Support
+### ⭐ Support
 If you find it valuable, consider starring the repository to support continued development and visibility.
