@@ -93,17 +93,16 @@ Evaluation & Trust Systems
 
 ---
 
-⚠️ Disclaimer
+⚠️ Disclaimer  
 
-This system is designed for decision intelligence and architectural reasoning support.
+This system is designed for decision intelligence and architectural reasoning support.  
 It does not replace domain expertise, human judgment, or enterprise governance processes.
 
-📄 License
+📄 License  
+MIT License  
 
-MIT License
-
-© 2026 Aditi Khare
+© 2026 Aditi Khare  
 Enterprise AI Product Ecosystem | Decision Intelligence
----
+
 ### ⭐ Support
 If you find it valuable, consider starring the repository to support continued development and visibility.
